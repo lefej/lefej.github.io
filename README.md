@@ -4,6 +4,10 @@
 
 Hello! My name is Olesya. I live in Russia, Moscow, Ramenki district.
 
+## Job
+
+I work a QA engineer in government research institute, i test the system of issue international passports.
+
 ## Books
 
 ### My favourite books are:
