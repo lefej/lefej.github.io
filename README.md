@@ -1,8 +1,10 @@
 # Lefej's WebSite
 
+Hello! My name is Olesya. 
+
 ## Geography
 
-Hello! My name is Olesya. I live in Russia, Moscow, Ramenki district.
+I live in Russia, Moscow, Ramenki district.
 
 ## Job
 
