@@ -10,6 +10,7 @@ function guess {
 		if  [[ ! $n =~ [0-9] ]]
 		then
 			echo 'Enter only numbers please!'
+			let n=-1111
 		elif [[ $n -lt $m ]]
 		then
 			echo 'You are not right. Too low!'
